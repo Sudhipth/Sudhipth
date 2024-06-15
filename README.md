@@ -11,6 +11,9 @@
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudhipth/)
 - ⚡ Fun fact: I know to play online coding games
 - Solved - 250 Problems.
+  <br/>
+  <br/>
+ <a href="https://github.com/Ronak-Ronu" target="_blank"><img alt="Ronak-Ronu" src="https://badges.pufler.dev/visits/Ronak-Ronu/Ronak-Ronu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
 
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="100" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
