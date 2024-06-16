@@ -13,7 +13,8 @@
 - Solved - 250 Problems.
   <br/>
   <br/>
- <a href="https://github.com/Ronak-Ronu" target="_blank"><img alt="Ronak-Ronu" src="https://badges.pufler.dev/visits/Ronak-Ronu/Ronak-Ronu?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/Sudhipth" target="_blank"><img alt="Sudhipth" src="https://badges.pufler.dev/visits/Sudhipth/Sudhipth?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+
 
 ### I code in
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="100" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
