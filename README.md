@@ -13,7 +13,10 @@
 - Solved - 250 Problems.
   <br/>
   <br/>
-<a href="https://github.com/Sudhipth" target="_blank"><img alt="Sudhipth" src="https://badges.pufler.dev/visits/Sudhipth/Sudhipth?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+<a href="https://github.com/Sudhipth" target="_blank">
+    <img alt="Sudhipth" src="https://badges.pufler.dev/visits/Sudhipth/Sudhipth?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square&t=${new Date().getTime()}"/>
+</a>
+
 
 
 ### I code in
