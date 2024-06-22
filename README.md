@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning DSA Using Java
 - 👯 I’m looking to collaborate with tech professionals
 - 🤔 I’m looking for help with placements in Tier 2 companies and upcoming opportunities in FAANG
--  🔭 Here's my [Resume](https://sudhipth-resume.tiiny.site/)
+-  🔭 Here's my [Resume](https://online.publuu.com/558678/1255754)
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudhipth/)
 - ⚡ Fun fact: I know to play online coding games
