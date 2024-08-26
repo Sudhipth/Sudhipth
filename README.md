@@ -10,7 +10,7 @@
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudhipth/)
 - ⚡ Fun fact: I know to play online coding games
-- Solved - 250 Problems.
+- Solved - 325 Problems.
   <br/>
   <br/>
 <a href="https://github.com/Sudhipth" target="_blank">
