@@ -25,25 +25,6 @@
 
 ---
 
-### I Code In
-<p>
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> 
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
- <img height="50" width="100" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> 
-</p>
-
----
-
-### IDE and Tools I Use
-<p>
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
- <img height="50" width="75" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> 
- <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> 
-</p>
-
----
-
 ### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudhipth&theme=dark&show_icons=true&hide=issues,contribs" alt="Sudhipth's GitHub stats" />
