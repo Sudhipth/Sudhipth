@@ -12,10 +12,8 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 ### About Me
-- 🌱 I’m currently learning **DSA Using Java**
+- 🌱 I’m currently learning **AI*
 - 👯 I’m looking to collaborate with tech professionals
-- 🤔 I’m looking for help with placements in Tier 2 companies and upcoming opportunities in FAANG
-- 🔭 Here's my [Resume]()
 - 📫 How to reach me:  
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sudhipth/)
 - ⚡ Fun fact: I know how to play online coding games  
