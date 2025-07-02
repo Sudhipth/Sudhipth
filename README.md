@@ -20,6 +20,8 @@
 - 💻 Solved **400+ Problems**  
 
 <br/>
+<br/>
+<br/>
 
 ---
 
@@ -47,12 +49,4 @@
   </a>
 </p>
 
----
 
-### 🔁 GitHub Profile Visits
-
-<p align="center">
-  <a href="https://github.com/Sudhipth" target="_blank">
-    <img alt="Sudhipth's GitHub visits" src="https://badges.pufler.dev/visits/Sudhipth/Sudhipth?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square" />
-  </a>
-</p>
